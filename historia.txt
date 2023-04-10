@@ -1,0 +1,7 @@
+Este es un texto para aprender Git
+
+Se escribe texto primero y para posterior cambios
+
+por ejemplo acá se inicia con el contador = 1
+
+Gracias
