@@ -11,4 +11,6 @@ ahora adiciono más texto
 
 y más datos
 
+para probar git reset --head
+
 cualquier otro dato para ver cambios
