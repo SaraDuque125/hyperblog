@@ -2,6 +2,6 @@ Este es un texto para aprender Git, le adiciono esta primer linea
 
 Se escribe texto y se borran datos
 
-por ejemplo acá continúa con el contador = 2
+por ejemplo acá continúa con el contador = 3
 
 Gracias
