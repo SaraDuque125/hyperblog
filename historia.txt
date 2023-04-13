@@ -13,4 +13,6 @@ y más datos
 
 para probar git reset --head
 
+Por aquí Sarita añadió información al repositorio
+
 cualquier otro dato para ver cambios
